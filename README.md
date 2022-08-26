@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **applying ML for predictive sleep analysis**
 
-- 🌱 I’m currently learning **React, ethers.js, ...**
+- 🌱 I’m currently learning **Kubernetes, React, ethers.js, ...**
 
 - ⚡ I’m passionate about **frontend development and making ML solutions available for real-life applications**
 
